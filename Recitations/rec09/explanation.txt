@@ -1,0 +1,14 @@
+Focus
+
+Simple Inheritance
+Writing constructors for an inheritance hierarchy
+polymorphism - requirements to use and when
+Slicing and legal assignments
+Abstract classes and pure virtual methods
+What can be assigned to what?
+You must be checked off by a TA to receive credit for this lab. Hopefully you will be checked out during today's lab. If not then get checked out during a TA's office hours next week.
+
+See attached zip file.
+
+Note that there is a file rec09.html. Just open that. All other files are linked to from there.
+
