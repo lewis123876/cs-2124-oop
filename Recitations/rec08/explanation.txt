@@ -1,0 +1,20 @@
+Overview
+
+This can be a big project, but we will break it into pieces, of hopefully easy steps. 
+The overall goal is to implement a Registrar class that tracks Students and Courses. Students take courses and courses have students that are enrolled in them. And there we have cycles. When you are all done, you will have
+solved the problem of cyclic association,
+accomplished separate compilation,
+and placed all of your classes and their code into a namespace.
+But first we want to get something working
+in a single file,
+no separate compilation,
+no namespaces.
+Even without separate compilation, we want all of the functions moved down below main, leaving only prototypes in the class definitions.
+You should get checked out for this single file solution, and upload it to Britghtspace as rec08_single.cpp
+
+Of course you want to test at every possible point! "Test early and often" is a common motto among successful developers.
+Only after all that works in a single file, then copy it and split it into multiple files, i.e. for each class a header file and an implementation file, along with the one cpp file for the "testing" code.
+Don't modify your original working code, the solution that is in a single file! Make a copy of it.
+When adding separate compilation, sometimes code that worked fine before now breaks. Good to have the working code to go back to and look at.
+Next place the classes and the function / method definitions into the namespace BrooklynPoly. (Don't do this for the single file version.)
+See below (at the bottom) for the complete list of files to turn in to Brightspace. But I think you know what they are.
