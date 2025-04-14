@@ -1,0 +1,19 @@
+hw08: Inheritance
+
+Focus
+
+Inheritance
+Problem:
+
+We want to again extend our game of Warriors and Nobles
+
+It turns out that there is more than one type of Noble. And in fact Warriors aren't the only people they can hire to do their fighting. There is magic in the land! Life (and death) are otherwise fairly similar. Nobles are still the only ones who go around declaring war upon each other.Submission Feedback
+
+Overall Feedback
+Errors:
+\-1 do not use a boolean field in the Protector class for the hired status, the lord pointer will suffice
+\-0.5 base classes should have a virtual destructor
+\-2 Archer and Swordsman have duplicate code instead of using code from a method in Warrior
+
+Score
+16.5 / 20 - B
