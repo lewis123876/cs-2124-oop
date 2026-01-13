@@ -1,5 +1,3 @@
-// Deejuanae Lewis
-
 #include <iostream>
 #include <vector>
 #include "polynomial.h"
@@ -227,3 +225,4 @@ void Polynomial::removeZeros() {
 }
 
 void doNothing(Polynomial temp) {}
+
