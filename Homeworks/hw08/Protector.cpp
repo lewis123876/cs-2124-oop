@@ -1,5 +1,3 @@
-// Deejuanae Lewis
-
 #include "Protector.h"
 using namespace std;
 
@@ -121,3 +119,4 @@ void Swordsman::attack() const {
 }
 
 }
+
