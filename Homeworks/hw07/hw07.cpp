@@ -1,4 +1,3 @@
-//Deejuanae Lewis
 #include <iostream>
 #include "Warrior.h"
 #include "Noble.h"
@@ -66,3 +65,4 @@ int main() {
      << wizard.isHired() << endl;
     cout << "===============================================\n\n";
 }
+
