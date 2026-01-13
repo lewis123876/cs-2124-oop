@@ -1,4 +1,3 @@
-//Deejuanae lewis
 /*
   Association: Noble - Warrior
   The purpose of this program is to simulate battles between nobles, where each
@@ -263,3 +262,4 @@ int main()
     cout << "==========\n";
 
 }
+
