@@ -1,5 +1,4 @@
 /*
-  Name:Deejuanae Lewis
   Purpose: This program represents a Polynomial class that uses a linked list,
   where each node contains a term's coefficient and a pointer to the next term.
   It includes multiple constructors for creating polynomials and copy control.
@@ -88,3 +87,4 @@ int main()
      cout << "((p8 + p9) == p10) is " << ((p8 + p9) == p10) << endl;
 
 } // main
+
