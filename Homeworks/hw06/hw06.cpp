@@ -1,4 +1,3 @@
-//Deejuanae Lewis
 /*
   The purpose of this program is to implement a class that handles big unsigned
   integers. For the class a selection of operators are overloaded.
