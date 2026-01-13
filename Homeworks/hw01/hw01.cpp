@@ -1,4 +1,4 @@
-//Name: Deejuanae Lewis
+
 //The purpose of the program is to decrypt text encrypted by caesar cypher
 #include <iostream>
 #include <fstream>
