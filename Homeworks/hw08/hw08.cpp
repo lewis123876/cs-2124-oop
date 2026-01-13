@@ -1,4 +1,3 @@
-//Deejuanae Lewis
 /*The purpose of the program is to simulate battles between nobles. There are two types
  *ones that can hire and fire warriors, and ones who fight for themselves.
  *There are different types of protectors who have different attack types.
@@ -53,3 +52,4 @@ int main() {
             << joe << endl
             << "==========\n";
 } // main
+
