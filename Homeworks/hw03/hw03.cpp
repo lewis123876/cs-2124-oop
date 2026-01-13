@@ -1,4 +1,3 @@
-//Deejuanae Lewis
 //The purpose is to create warriors and their weapons
 //then simulate battles between warriors
 
@@ -209,3 +208,4 @@ void status(const vector<Warrior>& warriors) {
         cout << warrior << endl;
     }
 }
+
