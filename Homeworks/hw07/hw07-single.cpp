@@ -1,5 +1,3 @@
-//Deejuanae Lewis
-
 /*The purpose of the program is to simulate battles between nobles , where they
   can hire and fire warriors. The combined strength of all warriors determines
   the outcome of the battle. Some key differences with this assignment and the
