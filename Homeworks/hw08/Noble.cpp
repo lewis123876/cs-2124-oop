@@ -1,5 +1,3 @@
-// Deejuanae Lewis
-
 #include "Noble.h"
 using namespace std;
 
@@ -222,3 +220,4 @@ namespace WarriorCraft {
         cout << "Ugh!" << endl;
     }
 }
+
