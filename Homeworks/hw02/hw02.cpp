@@ -1,4 +1,3 @@
-//Deejuanae Lewis
 //Model of a game of medieval times
 //warriors fight sometimes to the death
 
@@ -149,3 +148,4 @@ void status(const vector<Warrior>& warriors) {
         cout << "Warrior: " << warrior.name << ", strength: " << warrior.strength << endl;
     }
 }
+
