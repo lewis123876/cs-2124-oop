@@ -1,5 +1,3 @@
-//Deejuanae Lewis
-
 #ifndef PROTECTOR_H
 #define PROTECTOR_H
 #include <iostream>
@@ -59,3 +57,4 @@ namespace WarriorCraft {
     };
 }
 #endif //PROTECTOR_H
+
