@@ -1,5 +1,3 @@
-//Deejuanae Lewis
-
 #ifndef NOBLE_H
 #define NOBLE_H
 
@@ -63,3 +61,4 @@ namespace WarriorCraft {
 
 }
 #endif //NOBLE_H
+
