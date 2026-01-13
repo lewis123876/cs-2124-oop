@@ -1,5 +1,3 @@
-// Deejuanae Lewis
-
 #include<iostream>
 #include<vector>
 
@@ -41,3 +39,4 @@ bool operator!=(const Polynomial& rhs, const Polynomial& lhs);
 void doNothing(Polynomial temp);
 
 #endif //POLYNOMIAL_H
+
